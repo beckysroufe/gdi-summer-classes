@@ -2,6 +2,7 @@ GDI Cincinnati - Carnegie Summer Sessions (2 hours)
 --------------------------
 
 What We'll Cover:
+
 **How do websites work?**
 * Brief explanation of how websites work
 
