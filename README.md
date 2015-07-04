@@ -5,28 +5,28 @@ What We'll Cover:
 *How do websites work?*
 * Brief explanation of how websites work
 
-*Let's make our own webpage:*
+**Let's make our own webpage:**
 * Add our own names
 * Add where we live
 * Add a paragraph about our family
 * Change the family image to an image of family
 * Add in images of each family member in the "Family" section
 
-*Favorite Animals:*
+**Favorite Animals:**
 * Choose favorite animals from images
 * Add our favorite animals to the list
 * Add in why we like those animals
 
-*Favorite Things:*
+**Favorite Things:**
 * Talk about ordered lists
 * Make list of favorite things
 
-*Favorite Foods:*
+**Favorite Foods:**
 * Make list of favorite foods
 
-*Footer:
+**Footer:**
 * Change footer to name of student(s)
 
-*Links:*
+**Links:**
 * Change link in menu to favorite webpage
 
